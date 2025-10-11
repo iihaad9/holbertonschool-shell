@@ -1,1 +1,1 @@
-This project is about basic shell commands
+Shell - permissions tasks
