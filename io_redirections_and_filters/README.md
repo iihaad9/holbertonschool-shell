@@ -1,1 +1,1 @@
-Task 2: display /etc/passwd with cat
+Task 3: display /etc/passwd and /etc/hosts with cat
